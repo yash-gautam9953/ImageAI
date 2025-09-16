@@ -1,0 +1,7514 @@
+[
+  {
+    "prompt": "compress image.jpg to 50kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "yeh pdf file ka size kam karna hai",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my png to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "इन सभी फाइलों को ज़िप करें",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this video.mp4 smaller than 10 MB",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 10240
+    }
+  },
+  {
+    "prompt": "docx ko pdf me badlo",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a zip archive of these documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Shrink this presentation.pptx",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "is audio file ko compress kardo 200 kb tak",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "I need to change this webp into a png",
+    "label": {
+      "action": "convert",
+      "file_type": "webp",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this gif for web",
+    "label": {
+      "action": "compress",
+      "file_type": "gif",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "मेरी txt फ़ाइल को docx में बदलें",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "yeh saari photos ko zip file me daal do",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce file size of song.wav",
+    "label": {
+      "action": "compress",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "mov se mp4 banana hai",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Please make this jpeg smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "document.doc ko pdf bana do",
+    "label": {
+      "action": "convert",
+      "file_type": "doc",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "इस वीडियो का आकार 50MB से कम करें",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 51200
+    }
+  },
+  {
+    "prompt": "archive these files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert avi to mp4?",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "profile_pic.png ka size 25kb se kam chahiye",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": 25
+    }
+  },
+  {
+    "prompt": "इस svg को png में परिवर्तित करें",
+    "label": {
+      "action": "convert",
+      "file_type": "svg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress my audio recording",
+    "label": {
+      "action": "compress",
+      "file_type": "m4a",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "in sab files ki ek zip file banao",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make a pdf from this xlsx sheet",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Reduce PDF size below 500 KB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 500
+    }
+  },
+  {
+    "prompt": "turn this mp3 into a wav file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "chota karo is image ko",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "put these pictures in a zip",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "HEIC to JPG converter",
+    "label": {
+      "action": "convert",
+      "file_type": "heic",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress video to 100MB",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 102400
+    }
+  },
+  {
+    "prompt": "इस Word दस्तावेज़ को PDF में बदलें",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Bhai is video ka size ghata do",
+    "label": {
+      "action": "compress",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip up my project folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert m4a to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "m4a",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this PNG without losing quality",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "assignment.docx ko pdf me convert karna hai",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to 2mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 2048
+    }
+  },
+  {
+    "prompt": "एक ज़िप संग्रह बनाएँ",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change webm to mp4",
+    "label": {
+      "action": "convert",
+      "file_type": "webm",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Photo ka size kam karo 100kb tak",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "Convert PPT to PDF",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a file smaller?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these mp3 files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "gif को mp4 में बदलें",
+    "label": {
+      "action": "convert",
+      "file_type": "gif",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce size of video.mkv",
+    "label": {
+      "action": "compress",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "tiff ko jpg banao",
+    "label": {
+      "action": "convert",
+      "file_type": "tiff",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress my resume to send via email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "इन दस्तावेज़ों को ज़िप में डालें",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change audio format from wav to aac",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "is image ka size 1MB se kam karo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "I need to convert an excel file to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress these vacation pictures",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file 250kb",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": 250
+    }
+  },
+  {
+    "prompt": "bmp to png convert",
+    "label": {
+      "action": "convert",
+      "file_type": "bmp",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "इस PDF का आकार कम करें",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create one file from these images",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my mov video to gif",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "video ka size chota karna hai",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change this raw photo to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "raw",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress a folder of images",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Shrink mp3 file to 1MB",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "flac ko mp3 me badal do",
+    "label": {
+      "action": "convert",
+      "file_type": "flac",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to zip my assignment files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Get this image under 200 kilobytes",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "RTF to DOCX",
+    "label": {
+      "action": "convert",
+      "file_type": "rtf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "इस फ़ाइल को छोटा करें",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert video for mobile",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress movie.mp4",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "ek zip file bana do",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "turn my powerpoint into a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce photo size for form",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "pages file ko docx me kaise badle?",
+    "label": {
+      "action": "convert",
+      "file_type": "pages",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress pdf to 300kb online",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 300
+    }
+  },
+  {
+    "prompt": "zip a directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert video to audio",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "size kam karo iska",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "ai to svg converter",
+    "label": {
+      "action": "convert",
+      "file_type": "ai",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize video for WhatsApp",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Zip the contents of this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert html to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "html",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make passport size photo 20kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 20
+    }
+  },
+  {
+    "prompt": "epub ko pdf me convert karo",
+    "label": {
+      "action": "convert",
+      "file_type": "epub",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do I compress a file?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my holiday photos",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change image format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my audio file to below 5mb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": 5120
+    }
+  },
+  {
+    "prompt": "this document needs to be a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "archive the log files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the resolution of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "PNG को JPEG में बदलें",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this file for email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "put these files into an archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my song to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "file size chota karna hai",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a zip",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert video to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Need to shrink this file to 10kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 10
+    }
+  },
+  {
+    "prompt": "is excel file ko pdf bana do",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a batch of images",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this pdf editable",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I have to upload a photo less than 50kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "इन चित्रों को ज़िप करें",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Turn my text file into a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "video compress for youtube upload",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "ogg to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "ogg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip current directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "document size reduce",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to save keynote as powerpoint",
+    "label": {
+      "action": "convert",
+      "file_type": "key",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a 1gb video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "bundle these files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this eps to svg?",
+    "label": {
+      "action": "convert",
+      "file_type": "eps",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "pdf ka size chota kar do 2 mb tak",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 2048
+    }
+  },
+  {
+    "prompt": "I want to convert a word doc to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder into a single file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make the audio file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "video ko gif banana hai",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress to 750kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 750
+    }
+  },
+  {
+    "prompt": "zip my backup",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "extract audio from this video file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this image",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change video to webm",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress for web",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the source code",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a bunch of jpegs to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce size of this video to half",
+    "label": {
+      "action": "compress",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change my resume from doc to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "doc",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a zip of these items",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this mp4 file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this image to webp format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this photo to 15 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 15
+    }
+  },
+  {
+    "prompt": "Create archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert an mkv file",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "pdf size reducer",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change video format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these reports",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to get this document under 10MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 10240
+    }
+  },
+  {
+    "prompt": "save this pptx as a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce mp3 bitrate",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip a folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert pdf to word",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this 300 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 300
+    }
+  },
+  {
+    "prompt": "change picture to png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip it",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video without losing quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a docx version of this pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "shrink this file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip and download",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my audio file to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "image size chota karo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "turn this into a zip file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my Numbers spreadsheet to Excel",
+    "label": {
+      "action": "convert",
+      "file_type": "numbers",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size to 5mb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 5120
+    }
+  },
+  {
+    "prompt": "Can you make a pdf out of this?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "png ko pdf me convert karo",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this jpeg 500kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 500
+    }
+  },
+  {
+    "prompt": "change mkv to mp4",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress and email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a gif from this mp4",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "photo ko 100kb me kaise banaye",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "convert this to a word document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to change heic to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "heic",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert all these images to png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "resize image to 200kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "I need to convert a file",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this video smaller for sending",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "word to pdf converter",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "can you convert this video to an audio file?",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make it smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "excel ko pdf me convert karna hai",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this under 2mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 2048
+    }
+  },
+  {
+    "prompt": "turn this png to a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "downsize this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save image as webp",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this file to 10%",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "create a pdf from these word docs",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file smaller for my website",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change the format of this audio",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to a specific size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress image to 20kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 20
+    }
+  },
+  {
+    "prompt": "convert from mp4 to avi",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Please compress this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make a smaller copy of this file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to save pdf as image",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video for discord",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 8192
+    }
+  },
+  {
+    "prompt": "convert this to a compatible format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce photo size in kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "can you convert this to mp3?",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress pdf",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change image to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the file size of this powerpoint",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert mov to mp4 online",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this signature image 10kb",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": 10
+    }
+  },
+  {
+    "prompt": "Need to convert my document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "optimize this video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want this as a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "shrink a pdf",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert an image to text",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress to 1.5MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1536
+    }
+  },
+  {
+    "prompt": "transform this file to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these photos",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make audio file smaller in size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to turn this into a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "webp",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress the attached file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert spreadsheet to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Get my photo to 200 by 200 pixels and under 50kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "change file extension",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a 100mb file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert word to html",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "image ko 25 kb ka banana hai",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 25
+    }
+  },
+  {
+    "prompt": "turn this video into a series of images",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scan",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how do I convert a video file?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change the format of this picture",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress it to 256kb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": 256
+    }
+  },
+  {
+    "prompt": "Make a pdf from this powerpoint",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the attachments",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "lower the quality of this video to reduce size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a .docx file?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this file smaller to upload",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this document as a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my jpg",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my photo to black and white",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video below 25mb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "I need to change a file's format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "shrink the pdf file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to an editable document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress picture for email",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change this mov to mp4?",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file half its size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "jpg to png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this zip file further",
+    "label": {
+      "action": "compress",
+      "file_type": "zip",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert to mp4",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my song",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my video to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the image file size",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert pdf to ppt",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 100kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "Can I convert this to a different format?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "optimize this for sending",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert excel to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my pdf file to 200kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "turn this file into a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce video size online",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a pages document to word",
+    "label": {
+      "action": "convert",
+      "file_type": "pages",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a large video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a more common video format",
+    "label": {
+      "action": "convert",
+      "file_type": "flv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make it 50kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "convert all pages of pdf to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files for submission",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this song from wav to flac",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "file ka size chota karna hai 1 mb tak",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "is file ko zip karo",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "png ko svg me convert karna hai",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "video size reducer for email",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "put these in a zip file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make a pdf from these images",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress an excel file",
+    "label": {
+      "action": "compress",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the dimensions of this png",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a word document from this",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be under 400kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 400
+    }
+  },
+  {
+    "prompt": "convert avi to something my phone can play",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make an archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this photo smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert a video to an animated gif",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "image size compressor",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change this file type?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the image to 80kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 80
+    }
+  },
+  {
+    "prompt": "Convert text to speech",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this PDF document",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a different image format",
+    "label": {
+      "action": "convert",
+      "file_type": "bmp",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "shrink image size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make a zip from this directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "pdf ko jpg me badalna hai",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "turn this into a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress pdf to 1mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "convert webp to gif",
+    "label": {
+      "action": "convert",
+      "file_type": "webp",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Zip these items",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this audio recording",
+    "label": {
+      "action": "compress",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this as a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress to a smaller size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this audio file to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "m4a",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make the file size of this picture smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my excel sheet",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to send on whatsapp",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 16384
+    }
+  },
+  {
+    "prompt": "extract images from pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a docx file",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change file to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Need to compress this before uploading",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert PDF to plain text",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "photo ko resize karo 50kb me",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "how to change a video format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my work files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce video file size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change this jpeg to a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a word document",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my movie file",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to fit on a usb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this text as a doc",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to 500kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 500
+    }
+  },
+  {
+    "prompt": "Can you make this a PDF?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip it up",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Downsize this image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my presentation to video",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video by 50%",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this as an image file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my audio book",
+    "label": {
+      "action": "compress",
+      "file_type": "m4b",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "create pdf from this",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 1024kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "I need a video converter",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "bundle these files into a zip",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make video smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to a different audio format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to reduce the size of this mp3",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my document to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the size of this image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this file 800kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 800
+    }
+  },
+  {
+    "prompt": "convert this to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "create a zip of this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the quality",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert this pdf to an excel file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this audio file to 128kbps",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change video file type",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "shrink the file size of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in pdf format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress image to 30kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 30
+    }
+  },
+  {
+    "prompt": "Can you convert an image for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this directory and all subdirectories",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make it a smaller file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this word doc as pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file so I can email it",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this clip to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "get this below 1MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "change the video codec",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these songs",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a low-res version",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my photo to a document",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my presentation",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a heic file",
+    "label": {
+      "action": "convert",
+      "file_type": "heic",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress image file",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my document type",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this pdf to a smaller size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a universal format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this 64kb",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": 64
+    }
+  },
+  {
+    "prompt": "convert to docx",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all files in this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to reduce video size without losing much quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my audio to text",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce a file's size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change format to mp3",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this for web use",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert the attached file to PDF",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my holiday video",
+    "label": {
+      "action": "compress",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this file for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change the file to a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress pdf to send over email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a video to audio converter",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 120kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 120
+    }
+  },
+  {
+    "prompt": "convert this to something I can edit in Word",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my vacation pictures",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the filesize of this document",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert an image file",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this pdf file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my document into a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a png image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to a certain size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change the file type",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a smaller version of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert the image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "image size ko 20kb karo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 20
+    }
+  },
+  {
+    "prompt": "Can you convert my audio recording?",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress folder to zip",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this image for my website",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this as a word file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a PDF smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my video to a playable format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 50 percent",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my file to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a zip archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the size of this png",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my image to a vector",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress a file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do I change a file format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress it to 200kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "convert my document to a webpage",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make video smaller for instagram",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to an mp3 file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How can I reduce the size of a file?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a more compressed format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this file to 25% of original size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change the format of my video",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these three files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the quality and size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a jpg?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to 1gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mkv",
+      "target_size_kb": 1048576
+    }
+  },
+  {
+    "prompt": "convert this image to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file lighter",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my scanned document to an editable format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image so it loads faster",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my audio file type",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the pdf file to 5mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 5120
+    }
+  },
+  {
+    "prompt": "I need to convert this to work with powerpoint",
+    "label": {
+      "action": "convert",
+      "file_type": "key",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the selected files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "downsample this audio file",
+    "label": {
+      "action": "compress",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to PDF format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a photo file size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change the format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 40 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 40
+    }
+  },
+  {
+    "prompt": "convert this to a more popular format",
+    "label": {
+      "action": "convert",
+      "file_type": "ogg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a zip of my documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Shrink video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this file to a word document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scanned pdf",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this png to an icon file",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 1mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "Change my video's format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to reduce the file size of this presentation",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my audio to a lossless format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file smaller to fit on a floppy disk",
+    "label": {
+      "action": "compress",
+      "file_type": "txt",
+      "target_size_kb": 1440
+    }
+  },
+  {
+    "prompt": "change my photos to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to a kb size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in jpg format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my audio files",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert video file for final cut pro",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 75kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 75
+    }
+  },
+  {
+    "prompt": "Can you convert my spreadsheet?",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a zip of these images",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce photo size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to an editable pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video file for email",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "I need to change the extension of this file",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a file size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to a web-friendly format",
+    "label": {
+      "action": "convert",
+      "file_type": "tiff",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder of documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "decrease file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save my document in an older word format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to 2gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 2097152
+    }
+  },
+  {
+    "prompt": "Convert a file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these two folders",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a transparent png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my video without losing audio quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a high quality image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my photo to a cartoon",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be exactly 100kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "I need to convert this to an excel spreadsheet",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my project files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to reduce the size of this file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my song to a ringtone format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to a smaller size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change the format of this file for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be less than 1MB",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "convert this to pdf/a",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make an archive of these files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce mp4 file size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a vector file",
+    "label": {
+      "action": "convert",
+      "file_type": "svg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scanned document",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my video to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 150kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 150
+    }
+  },
+  {
+    "prompt": "save this as a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make the file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a word processing document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video for web streaming",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this video?",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "get this photo to 10kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 10
+    }
+  },
+  {
+    "prompt": "I want to change this pdf to a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all of these",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Reduce the size of this mp4",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my document for online viewing",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to shrink this image's file size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a more common audio format",
+    "label": {
+      "action": "convert",
+      "file_type": "flac",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be less than 500kb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 500
+    }
+  },
+  {
+    "prompt": "I need to convert my powerpoint to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my photos",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this audio file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my image to a pdf file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress video to send over telegram",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 2097152
+    }
+  },
+  {
+    "prompt": "I need a converter for my files",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to make a picture smaller in size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you turn this into a pdf for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "archive this folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the bit depth of this image",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a .doc format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 200kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 200
+    }
+  },
+  {
+    "prompt": "convert my audio book file",
+    "label": {
+      "action": "convert",
+      "file_type": "m4b",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files together",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to compress this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this file to a different type",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to shrink a file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my photo to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress image for website",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my video",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a smaller version of this file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change this to pdf?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be under 60kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 60
+    }
+  },
+  {
+    "prompt": "I want to convert this file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the entire directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a smaller video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert from PDF to Word",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my audio track",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change this file's format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the attached photo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this file smaller than 100 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "Can you convert this image file?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a zip file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the size of this video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this file's size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this as a vector graphic",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to fit in an email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my music file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 90kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 90
+    }
+  },
+  {
+    "prompt": "convert this to an editable text document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the contents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make my video smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a web format",
+    "label": {
+      "action": "convert",
+      "file_type": "tiff",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to compress a file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a pdf version of this",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this jpeg",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my image to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this document to 1MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "Can you change this document's format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "decrease the size of this mp3",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a smaller image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a mobile-friendly video",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to fit a 50kb limit",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 50
+    }
+  },
+  {
+    "prompt": "How do I convert a file to PDF?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files for easy download",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a smaller pdf",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this to an image?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this to a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to 2MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 2048
+    }
+  },
+  {
+    "prompt": "How can I convert this file?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my backup files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a smaller version of this photo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a file converter",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this powerpoint smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a standard video format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be 100kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "I need to change the file format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this folder for me",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "optimize this image for email",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my document to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to compress this file's size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a high-resolution format",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be 300kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 300
+    }
+  },
+  {
+    "prompt": "Can you convert a document to pdf?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a single zip file of these documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this video without losing quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a word version of this",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this audio file to 64kbps",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change the file type of this video",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to shrink the size of this file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a pdf document?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 25kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 25
+    }
+  },
+  {
+    "prompt": "I need an image converter",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this folder and its contents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this file smaller in size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to save a document in a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video so I can send it",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to get this in pdf format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to be under 1.5MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1536
+    }
+  },
+  {
+    "prompt": "Can you change the video format for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my downloads folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a low-resolution copy of this image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this image to a document?",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress my slideshow",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a file from heic to jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "heic",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress an image file",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change the type of my document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this pdf document",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a format I can use on my website",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a 64kbps audio file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this to docx?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all the files in this directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to reduce video size for web",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my voice memo to text",
+    "label": {
+      "action": "convert",
+      "file_type": "m4a",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to reduce a file's size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my audio to mp3 format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this for my website",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my file to PDF",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress my video project",
+    "label": {
+      "action": "compress",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you help me convert a file?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to make this smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change the file into a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this pdf so I can email it",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a video to audio",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 125kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 125
+    }
+  },
+  {
+    "prompt": "Can you convert this to an editable Word document?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this document",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert an image file format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this pdf file smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my file into a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the size of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert this to a png image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to a specific size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change its file type",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a smaller copy of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 22kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 22
+    }
+  },
+  {
+    "prompt": "Can you help me convert an audio file?",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder into a zip file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this image for web",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you save this as a word file for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do you make a PDF smaller?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my video to a playable format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image by 50 percent",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my file to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to make a zip archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you reduce the size of this png?",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change my image to a vector graphic",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file please",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do I change a file's format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to 250kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 250
+    }
+  },
+  {
+    "prompt": "Can you convert my document to a webpage?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this whole folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this video smaller for sending through email",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "I want to convert this to an mp3 file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How can I reduce a file's size?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a more compressed audio format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this file to 25% of its original size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change the format of my movie",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you zip these three files for me?",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the image quality and size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a jpg file?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to be under 1gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mkv",
+      "target_size_kb": 1048576
+    }
+  },
+  {
+    "prompt": "I want to convert this image to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this whole folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file less heavy",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my scanned document to an editable one",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to make it load faster",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my audio's file type",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the pdf file to be under 5mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 5120
+    }
+  },
+  {
+    "prompt": "I need to convert this to work with Apple Keynote",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the selected files please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "downsample this audio recording",
+    "label": {
+      "action": "compress",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to PDF file format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a photograph file size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change the file's format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 45 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 45
+    }
+  },
+  {
+    "prompt": "I need to convert this to a more popular format",
+    "label": {
+      "action": "convert",
+      "file_type": "ogg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make a zip of my documents",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Shrink my video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert this file to a word document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scanned id",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this png to an ico file",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 1 megabyte",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "Change my movie's format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you zip these files?",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to reduce the file size of my presentation",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my audio to a lossless format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file small enough to fit on a floppy disk",
+    "label": {
+      "action": "compress",
+      "file_type": "txt",
+      "target_size_kb": 1440
+    }
+  },
+  {
+    "prompt": "change my images to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to a certain kb size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a jpg format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my mp3 files",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert video file for Adobe Premiere",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 70kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 70
+    }
+  },
+  {
+    "prompt": "Can you convert my Excel spreadsheet?",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a zip of these image files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce size of photo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to an editable pdf document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video file for sending via email",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "I need to change the extension of this text file",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a file's size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to a web-friendly image format",
+    "label": {
+      "action": "convert",
+      "file_type": "tiff",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder of document files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "decrease the file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to save my document in an older word format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to be under 2gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 2097152
+    }
+  },
+  {
+    "prompt": "Convert a file for me",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these two folders together",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a transparent png image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my movie without losing audio quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert this to a high quality image file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my picture to a cartoon",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be exactly 100 kilobytes",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "I need to convert this to an excel file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my project's files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to reduce the size of this particular file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my song to a ringtone format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to a smaller file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change the format of this file?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be less than 1 megabyte",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "convert this to pdf/a format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make an archive of these important files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce my mp4 file size",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a vector graphics file",
+    "label": {
+      "action": "convert",
+      "file_type": "svg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scanned papers",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my movie to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 155kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 155
+    }
+  },
+  {
+    "prompt": "save this as a png file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files up",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make the file smaller please",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a word processing file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video for faster web streaming",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this movie for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "get this photograph to 10kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 10
+    }
+  },
+  {
+    "prompt": "I want to change this pdf document to a jpg image",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all of these files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Reduce the file size of this mp4",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my document for online display",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to shrink this image's size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a more common audio file format",
+    "label": {
+      "action": "convert",
+      "file_type": "flac",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be less than 500 kilobytes",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 500
+    }
+  },
+  {
+    "prompt": "I need to convert my pptx to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my photos please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this audio file a bit smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my picture to a pdf file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress video to send over whatsapp",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 16384
+    }
+  },
+  {
+    "prompt": "I need a converter for my text files",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to make a picture's size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you turn this into a pdf?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "archive this entire folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the color depth of this image",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a .docx format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 210kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 210
+    }
+  },
+  {
+    "prompt": "convert my audiobook file",
+    "label": {
+      "action": "convert",
+      "file_type": "m4b",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files together please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to compress this movie file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this file to another type",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to shrink a file size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my picture to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress image for a website",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my video file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a smaller version of this document",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you change this file to pdf?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be under 65kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 65
+    }
+  },
+  {
+    "prompt": "I want to convert a file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the entire project directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a smaller size video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert from a PDF to a Word document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my audio playlist",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change this file's format please",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the attached picture",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a totally different format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this file smaller than 100 kilobytes",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 100
+    }
+  },
+  {
+    "prompt": "Can you convert this image?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a new zip file",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the size of this movie file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this word document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this file's size a bit smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "save this as a vector file",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to fit in an email",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my audio file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 95kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 95
+    }
+  },
+  {
+    "prompt": "convert this to an editable text file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the contents please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make my movie smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a web-friendly format",
+    "label": {
+      "action": "convert",
+      "file_type": "tiff",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to compress a file's size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a pdf copy of this",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this jpeg image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my picture to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this document to be under 1MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1024
+    }
+  },
+  {
+    "prompt": "Can you change this document's file format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all of my files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "decrease the size of my mp3",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a word document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a smaller picture",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a mobile-friendly movie",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to fit a 55kb limit",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 55
+    }
+  },
+  {
+    "prompt": "How do I convert a file to a PDF?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these files for a more easy download",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a smaller size pdf",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this file to an image?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress this large video file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this image to a png",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to 2.5MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 2560
+    }
+  },
+  {
+    "prompt": "How can I convert this file format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my backup folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a smaller version of this picture",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a file format converter",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this pptx smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a standard movie format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to be 105kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 105
+    }
+  },
+  {
+    "prompt": "I need to change the file's format",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this folder for me please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "optimize this picture for email",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert my file to a different format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to compress this file's size a bit",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to a high-resolution file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to be 350kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 350
+    }
+  },
+  {
+    "prompt": "Can you convert a document to a pdf?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make a single zip file of these",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this video without losing much quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need a word file of this",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this audio file to 32kbps",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change the file type of this movie",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to shrink the size of this particular file",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a pdf file?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 35kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 35
+    }
+  },
+  {
+    "prompt": "I need a picture converter",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this folder and its contents please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this file smaller in its size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to save a document in another format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video so I can send it to my friends",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to get this in pdf file format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to be under 1.8MB",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1843
+    }
+  },
+  {
+    "prompt": "Can you change the video's format for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my downloads folder please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a low-resolution version of this image",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this picture to a document?",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress my presentation slides",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a file from heic to a jpg",
+    "label": {
+      "action": "convert",
+      "file_type": "heic",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a picture file",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change the type of my text document",
+    "label": {
+      "action": "convert",
+      "file_type": "txt",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this pdf file please",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a format I can use on my site",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a 60kbps audio file",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you convert this to a docx?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip all of the files in this directory",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "how to reduce video size for the web",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my voice note to text",
+    "label": {
+      "action": "convert",
+      "file_type": "m4a",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to reduce a file's size please",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my audio file to mp3 format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this for my site",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert my file into a PDF",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress my video project file",
+    "label": {
+      "action": "compress",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you help me convert a file format?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to make this smaller in size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Change the file into a jpeg",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this pdf file so I can email it",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert a video into an audio file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 130kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 130
+    }
+  },
+  {
+    "prompt": "Can you convert this to an editable Word file?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip my documents folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the file size of this text document",
+    "label": {
+      "action": "compress",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to convert an image's file format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make this pdf document smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my file into a pdf document",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the size of this movie",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert this into a png image",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file to a very specific size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this file's type",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want a smaller size copy of this video",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this picture",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 23kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 23
+    }
+  },
+  {
+    "prompt": "Can you help me convert an audio recording?",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder into a zip archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Optimize this picture for the web",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you save this as a word document for me?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do you make a PDF file smaller?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my movie to a playable format",
+    "label": {
+      "action": "convert",
+      "file_type": "mkv",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image by 60 percent",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to convert my document to pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to create a zip archive",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you reduce the size of this png file?",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change my picture to a vector graphic",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file for me please",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How do I change a file's format type?",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this to 260kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 260
+    }
+  },
+  {
+    "prompt": "Can you convert my document to an html page?",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip this entire folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this movie smaller for sending through email",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 25600
+    }
+  },
+  {
+    "prompt": "I want to convert this video to an mp3 file",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How can I reduce a file's size on my computer?",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert this to a more compressed sound format",
+    "label": {
+      "action": "convert",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Compress this file to 30% of its original size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to change the format of this movie",
+    "label": {
+      "action": "convert",
+      "file_type": "mov",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you zip these four files for me?",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the image's quality and size",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you make this a jpg image file?",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to be under 1.5gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mkv",
+      "target_size_kb": 1572864
+    }
+  },
+  {
+    "prompt": "I want to convert this picture to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to compress a whole folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file lighter in weight",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my scanned document into an editable one",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this picture to make it load faster",
+    "label": {
+      "action": "compress",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my audio's file format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress the pdf file to be under 6mb",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 6144
+    }
+  },
+  {
+    "prompt": "I need to convert this to work with Apple's Keynote",
+    "label": {
+      "action": "convert",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip the selected files up please",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "downsample this audio track",
+    "label": {
+      "action": "compress",
+      "file_type": "wav",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to a PDF file format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a photograph's file size smaller",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change the file's format type",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 48 kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 48
+    }
+  },
+  {
+    "prompt": "I need to convert this into a more popular format",
+    "label": {
+      "action": "convert",
+      "file_type": "ogg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to make a zip of my documents folder",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Shrink my movie",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert this file into a word document",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my scanned passport",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to change this png into an ico file",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress to 1.2 megabytes",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": 1228
+    }
+  },
+  {
+    "prompt": "Change my film's format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Can you zip these files up?",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I want to reduce the file size of my pptx",
+    "label": {
+      "action": "compress",
+      "file_type": "pptx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert my audio into a lossless format",
+    "label": {
+      "action": "convert",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Make this file small enough for a floppy disk",
+    "label": {
+      "action": "compress",
+      "file_type": "txt",
+      "target_size_kb": 1440
+    }
+  },
+  {
+    "prompt": "change my pics to a pdf",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress a file to a certain kilobyte size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need this in a jpeg format",
+    "label": {
+      "action": "convert",
+      "file_type": "png",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my mp3 audio files",
+    "label": {
+      "action": "compress",
+      "file_type": "mp3",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert video file for DaVinci Resolve",
+    "label": {
+      "action": "convert",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this image to 72kb",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": 72
+    }
+  },
+  {
+    "prompt": "Can you convert my xlsx spreadsheet?",
+    "label": {
+      "action": "convert",
+      "file_type": "xlsx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Create a zip of these picture files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "reduce the size of a photo",
+    "label": {
+      "action": "compress",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "convert this to an editable pdf file",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress video file for sending via discord",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 8192
+    }
+  },
+  {
+    "prompt": "I need to change the extension of this document file",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "How to make a file's size smaller online",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "Convert to a web-friendly video format",
+    "label": {
+      "action": "convert",
+      "file_type": "avi",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this folder of pdf document files",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "decrease the file's size",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to save my document in the older word format",
+    "label": {
+      "action": "convert",
+      "file_type": "docx",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this video to be under 2.5gb",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": 2621440
+    }
+  },
+  {
+    "prompt": "Convert a file for me please",
+    "label": {
+      "action": "convert",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "zip these three folders together",
+    "label": {
+      "action": "zip",
+      "file_type": null,
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "make this a transparent png picture",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress my film without losing audio quality",
+    "label": {
+      "action": "compress",
+      "file_type": "mp4",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "I need to convert this to a high quality picture file",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "compress this file now",
+    "label": {
+      "action": "compress",
+      "file_type": "pdf",
+      "target_size_kb": null
+    }
+  },
+  {
+    "prompt": "change my photo into a cartoon",
+    "label": {
+      "action": "convert",
+      "file_type": "jpg",
+      "target_size_kb": null
+    }
+  }
+]
