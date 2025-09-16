@@ -1,5 +1,6 @@
 # app.py (The Ultimate Version with Padding)
 
+
 import os
 import re
 import magic
@@ -8,6 +9,8 @@ from flask import Flask, request, send_file, jsonify
 from PIL import Image
 from io import BytesIO
 import zipfile
+# Import batch processing module
+from modules.batch_processing import process_batch_images
 
 # --- Flask App Setup ---
 app = Flask(__name__)
@@ -64,33 +67,37 @@ def find_best_quality_buffer(img_object, target_size_kb):
 
 
 # --- API Endpoint ---
+
+# --- Batch and Single File Processing Endpoint ---
 @app.route('/process', methods=['POST'])
 def handle_processing():
-    if 'image' not in request.files: return jsonify({"error": "No image file provided"}), 400
-    file = request.files['image']; prompt = request.form.get('prompt', ''); force_compression = request.form.get('force', 'false').lower() == 'true'
-    if file.filename == '': return jsonify({"error": "No selected file"}), 400
+    prompt = request.form.get('prompt', '')
+    force_compression = request.form.get('force', 'false').lower() == 'true'
+    files = request.files.getlist('image')
+    if not files or files[0].filename == '':
+        return jsonify({"error": "No image file(s) provided"}), 400
+    # Batch mode if multiple files, else single file
+    if len(files) > 1:
+        zip_buffer, error = process_batch_images(files, prompt, force_compression)
+        if error:
+            return jsonify({"error": error}), 400
+        return send_file(zip_buffer, as_attachment=True, download_name='compressed_images.zip', mimetype='application/zip')
+    # Fallback to single file logic (reuse your existing code for one file)
+    file = files[0]
     target_size_kb, _ = parse_prompt(prompt)
     if not target_size_kb:
         return jsonify({"error": "Prompt me size (KB me) nahi mila."}), 400
     input_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
     file.save(input_path)
     base_filename = os.path.splitext(file.filename)[0]
-
-    # --- Size Boundaries ---
     original_size_kb = os.path.getsize(input_path) / 1024
-    min_allowed_kb = max(1, int(original_size_kb * 0.1))  # 10% of original, at least 1KB
-    max_allowed_kb = int(original_size_kb * 2)            # 200% of original
+    min_allowed_kb = max(1, int(original_size_kb * 0.1))
+    max_allowed_kb = int(original_size_kb * 2)
     if target_size_kb < min_allowed_kb:
-        return jsonify({
-            "error": f"Requested size {target_size_kb}KB is too small. Minimum allowed is {min_allowed_kb}KB (10% of original)."
-        }), 400
+        return jsonify({"error": f"Requested size {target_size_kb}KB is too small. Minimum allowed is {min_allowed_kb}KB (10% of original)."}), 400
     if target_size_kb > max_allowed_kb:
-        return jsonify({
-            "error": f"Requested size {target_size_kb}KB is too large. Maximum allowed is {max_allowed_kb}KB (200% of original)."
-        }), 400
-
+        return jsonify({"error": f"Requested size {target_size_kb}KB is too large. Maximum allowed is {max_allowed_kb}KB (200% of original)."}), 400
     try:
-        # Load the image object once
         file_type = magic.from_file(input_path, mime=True)
         img = None
         if file_type == 'application/pdf':
@@ -110,40 +117,30 @@ def handle_processing():
         else:
             return jsonify({"error": "Only image and PDF files are supported. Output will always be JPEG."}), 400
         if img.mode in ("RGBA", "P"): img = img.convert("RGB")
-
         # --- Compression vs Extension Logic ---
-        # Case 1: EXTENSION (Target is bigger than original)
         if target_size_kb > original_size_kb:
             buffer = BytesIO()
             img.save(buffer, format='JPEG', quality=95, optimize=True)
             current_size_kb = len(buffer.getvalue()) / 1024
-            # Add padding if needed
             if target_size_kb > current_size_kb:
                 padding_size = int((target_size_kb - current_size_kb) * 1024)
                 buffer.seek(0, 2)
                 buffer.write(b'\0' * padding_size)
             best_buffer = buffer
             final_quality = 95
-        # Case 2: COMPRESSION (Target is smaller than original)
         else:
             best_buffer, final_quality = find_best_quality_buffer(img, target_size_kb)
             current_size_kb = len(best_buffer.getvalue()) / 1024
-            # Always pad to exact size if needed
             if current_size_kb < target_size_kb:
                 padding_size = int((target_size_kb - current_size_kb) * 1024)
                 best_buffer.seek(0, 2)
                 best_buffer.write(b'\0' * padding_size)
-
-        # --- Quality Warning Logic ---
         QUALITY_THRESHOLD = 40
         if final_quality < QUALITY_THRESHOLD and not force_compression:
             return jsonify({"status": "warning", "message": f"Warning: Image quality will be very low (Level: {final_quality}). To proceed, send request again with 'force=true'.", "quality_level": final_quality}), 400
-        
-        # --- Always return JPEG ---
         best_buffer.seek(0)
         output_filename = f"compressed_{base_filename}.jpeg"
         return send_file(best_buffer, as_attachment=True, download_name=output_filename, mimetype='image/jpeg')
-
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     finally:
