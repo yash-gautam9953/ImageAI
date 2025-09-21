@@ -1,4 +1,4 @@
-🖼️ PixelSqueeze
+# 🖼️ PixelSqueeze
 PixelSqueeze is a user-friendly web app that precisely compresses images to a specific file size. Powered by a Python & Flask backend, it lets you define your needs with a simple prompt (like "50kb jpg") and get a perfectly optimized image in seconds. 🚀
 
 ## ✨ Features
