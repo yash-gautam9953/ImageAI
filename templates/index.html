@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PixelSqueeze: Smart Image Compressor</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div id="particles-container"></div>
+
+    <div id="noteModal" class="modal-overlay">
+      <div class="modal-content">
+        <h3>Important Note</h3>
+        <div class="modal-note-text">
+          Only <b>JPEG</b> can be delivered at the <b>exact</b> requested size.<br />
+          <b>PNG/PDF</b> will be compressed as much as possible, but size is <b>not guaranteed</b>.
+        </div>
+        <button id="closeModalBtn" class="modal-ok-btn">Got it!</button>
+      </div>
+    </div>
+
+    <div class="container" style="filter: blur(4px); pointer-events: none" id="mainContent">
+      <div class="icon">
+        <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="4" y="7" width="30" height="24" rx="5" fill="#e0e7ff" stroke="#4f8cff" stroke-width="2"/>
+          <rect x="10" y="13" width="8" height="8" rx="4" fill="#4f8cff"/>
+          <path d="M18 25l4-4 6 6" stroke="#4f8cff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h2>PixelSqueeze</h2>
+
+      <form id="uploadForm" class="form">
+        <label for="image" class="file-drop-area">
+          <div class="file-icon">
+             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+          </div>
+          <span class="file-msg">Drag & drop a file here, or click to select</span>
+          <input type="file" id="image" name="image" accept="image/*,.pdf" required />
+        </label>
+        
+        <div id="previewArea" class="preview-area" style="display: none;">
+            <img id="imagePreview" src="#" alt="Image Preview"/>
+            <div id="fileInfo">
+                <span id="fileName"></span>
+                <span id="fileSize" class="file-size"></span>
+            </div>
+        </div>
+
+        <label for="prompt">Prompt (e.g. 50kb jpg):</label>
+        <input type="text" id="prompt" name="prompt" placeholder="e.g. 50kb jpg" required />
+        
+        <label class="force-label">
+          <input type="checkbox" id="force" name="force" /> Force compression (ignore quality warning)
+        </label>
+        
+        <button type="submit">
+          <span class="btn-text">Squeeze It!</span>
+          <div class="spinner" style="display: none;"></div>
+        </button>
+      </form>
+      
+      <div id="msg"></div>
+      <a id="downloadLink" class="download-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+        <span id="downloadText">Download Result</span>
+      </a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/tsparticles@3.3.0/tsparticles.bundle.min.js"></script>
+    <script src="/static/main.js"></script>
+  </body>
+</html>
