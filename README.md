@@ -51,4 +51,4 @@ The app will now be running at http://127.0.0.1:5000!
 For the Flask app to work correctly, your files should be organized like this:
 
 ## 👨‍💻 Author
-Built with ❤️ & 🐍 by [Your Name]
+Built with ❤️ & 🐍 by Yash Gautam
